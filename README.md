@@ -16,10 +16,5 @@ Here are some ideas to get you started:
 -->
 ### 🔥 Stats
 
-[![PossessedC0bra's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=possessedc0bra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PossessedC0bra/PossessedC0bra#gh-light-mode-only)
-[![PossessedC0bra's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=possessedc0bra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PossessedC0bra/PossessedC0bra#gh-dark-mode-only)
-
-#### 💬 Languages
-
-[![PossessedC0bra's top languages stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=possessedc0bra&layout=compact&theme=default#gh-light-mode-only)](https://github.com/PossessedC0bra/PossessedC0bra#gh-light-mode-only)
-[![PossessedC0bra's top languages stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=possessedc0bra&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/PossessedC0bra/PossessedC0bra#gh-dark-mode-only)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=possessedc0bra&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=possessedc0bra&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
