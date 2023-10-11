@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hi there, i'm Yannick
 
 <!--
 **PossessedC0bra/PossessedC0bra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👨‍💻 About me
-
-- 🏦 I'm working as a Full Stack Software Engineer [@BSI](https://www.bsi-software.com)
-- 🎓 I'm also enrolled in the CompSci undergrad program [@FHNW](https://www.fhnw.ch)
+- 🏦 Currently working as a Full Stack Software Engineer [@BSI](https://www.bsi-software.com)
+- 🎓 Enrolled in the CompSci bachelors degree [@FHNW](https://www.fhnw.ch)
 - 🏋️‍♂️ In my freetime i can be found at my local (climbing) gym, building mechanical keyboards, reading books or watching interesting videos
 - 💡 I have an interest in low level and functional programming
 - 🔨 I enjoy tinkering on my homelab and selfhosting software on my server
