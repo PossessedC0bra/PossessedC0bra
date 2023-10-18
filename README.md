@@ -37,7 +37,7 @@ Tools and languages in this category are either my all time favorites or my tech
 
 #### 💡 Interests
 
-Here you can find languages i have some experience in and am interested in using again in the future
+Here you can find languages i have some experience in or am interested in and would like to use more of in the future
 
 [![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,go,ocaml,perl,python,typescript)](https://skillicons.dev)
 
