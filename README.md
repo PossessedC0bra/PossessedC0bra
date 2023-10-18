@@ -1,5 +1,3 @@
-# 👋 Hi there, i'm Yannick
-
 <!--
 **PossessedC0bra/PossessedC0bra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 👋 Hi there, i'm Yannick
+
 - 🏦 Currently working as a Full Stack Software Engineer [@BSI](https://www.bsi-software.com)
 - 🎓 Enrolled in the CompSci bachelors degree [@FHNW](https://www.fhnw.ch)
 - 🏋️‍♂️ In my freetime i can be found at my local (climbing) gym, building mechanical keyboards, reading books or watching interesting videos
@@ -23,24 +23,23 @@ Here are some ideas to get you started:
 
 ### 🔨 Tools & Techologies
 
-
 #### 🚀 Daily drivers
 
-The following tools and languages are the ones i use in my day to day job and are the ones i am most experienced in.
+The following tools and languages are the ones i use in my day to day job and are the ones i am most experienced in
 
 [![Daily Drivers](https://skillicons.dev/icons?i=html,css,js,_,java,_,postgresql)](https://skillicons.dev)
 
-#### 🌟 Favorites & Interests
+#### 🌟 Favorites
 
-Tools and languages in this category are  either one of my favorites or ones i'm interested in and currently learning or looking to learn in the near future. Those are also the tools and languages of choice for new projects. 
+Tools and languages in this category are either my all time favorites or my technology of choice for new projects 
 
-[![Favorites & Interests](https://skillicons.dev/icons?i=nextjs,react,tailwind,_,c,go,haskell,kotlin,rust,typescript,ocaml)](https://skillicons.dev)
+[![Favorites](https://skillicons.dev/icons?i=nextjs,react,tailwind,_,haskell,kotlin,rust)](https://skillicons.dev)
 
-#### 💡 I have also used
+#### 💡 Interests
 
-Here you will find languages i have experience in but i am not particularly interested in (anymore).
+Here you can find languages i have some experience in and am interested in using again in the future
 
-[![Daily Drivers](https://skillicons.dev/icons?i=angular,vuejs,_,cpp,perl,python)](https://skillicons.dev)
+[![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,go,perl,python)](https://skillicons.dev)
 
 ### 🔥 Stats
 
