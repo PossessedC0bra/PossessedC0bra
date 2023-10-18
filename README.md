@@ -27,19 +27,19 @@ Here are some ideas to get you started:
 
 The following tools and languages are the ones i use in my day to day job and are the ones i am most experienced in
 
-[![Daily Drivers](https://skillicons.dev/icons?i=html,css,js,_,java,_,postgresql)](https://skillicons.dev)
+[![Daily Drivers](https://skillicons.dev/icons?i=html,css,js,_,java,_,postgresql,_,idea,docker)](https://skillicons.dev)
 
 #### 🌟 Favorites
 
 Tools and languages in this category are either my all time favorites or my technology of choice for new projects 
 
-[![Favorites](https://skillicons.dev/icons?i=nextjs,react,tailwind,_,haskell,kotlin,rust)](https://skillicons.dev)
+[![Favorites](https://skillicons.dev/icons?i=nextjs,react,tailwind,_,haskell,kotlin,rust,_,neovim)](https://skillicons.dev)
 
 #### 💡 Interests
 
 Here you can find languages i have some experience in and am interested in using again in the future
 
-[![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,go,perl,python,typescript)](https://skillicons.dev)
+[![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,go,ocaml,perl,python,typescript)](https://skillicons.dev)
 
 ### 🔥 Stats
 
