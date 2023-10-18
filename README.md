@@ -39,7 +39,7 @@ Tools and languages in this category are either my all time favorites or my tech
 
 Here you can find languages i have some experience in and am interested in using again in the future
 
-[![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,go,perl,python)](https://skillicons.dev)
+[![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,go,perl,python,typescript)](https://skillicons.dev)
 
 ### 🔥 Stats
 
