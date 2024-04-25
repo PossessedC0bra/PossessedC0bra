@@ -43,5 +43,5 @@ Here you can find languages i have some experience in or am interested in and wo
 
 ### 🔥 Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=possessedc0bra&show_icons=true&theme=transparent&hide_border=true" alt="Anurag's github stgymats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=possessedc0bra&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github-readme-stats.vercel.app/api?username=possessedc0bra&show_icons=true&theme=transparent&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=possessedc0bra&show_icons=true&theme=transparent&hide_border=true" alt="PossessedC0bra's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=possessedc0bra&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=possessedc0bra&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent&hide_border=true" alt="PossessedC0bra's top languages" /></a> |
 | ------------- | ------------- |
