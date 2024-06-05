@@ -33,13 +33,13 @@ The following tools and languages are the ones i use in my day to day job and ar
 
 Tools and languages in this category are either my all time favorites or my technology of choice for new projects 
 
-[![Favorites](https://skillicons.dev/icons?i=nextjs,react,tailwind,_,haskell,kotlin,rust,_,neovim)](https://skillicons.dev)
+[![Favorites](https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,_,haskell,kotlin,rust,go,_,neovim)](https://skillicons.dev)
 
 #### 💡 Interests
 
 Here you can find languages i have some experience in or am interested in and would like to use more of in the future
 
-[![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,go,ocaml,perl,python,typescript)](https://skillicons.dev)
+[![Interests](https://skillicons.dev/icons?i=angular,_,c,cpp,ocaml,perl,python)](https://skillicons.dev)
 
 ### 🔥 Stats
 
