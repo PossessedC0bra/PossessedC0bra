@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 # 👋 Hi there, i'm Yannick
 
 - 🏦 Currently working as a Full Stack Software Engineer [@BSI](https://www.bsi-software.com)
-- 🎓 Enrolled in the CompSci bachelors degree [@FHNW](https://www.fhnw.ch)
 - 🏋️‍♂️ In my freetime i can be found at my local (climbing) gym, building mechanical keyboards, reading books or watching interesting videos
 - 💡 I have an interest in low level and functional programming
 - 🔨 I enjoy tinkering on my homelab and selfhosting software on my server
